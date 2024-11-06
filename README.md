@@ -1,1 +1,1 @@
-# jastip
+# Aplikasi Absensi Mahasiswa Android
